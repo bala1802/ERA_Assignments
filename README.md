@@ -13,3 +13,5 @@ Repository of case studies from the Extensive &amp; Reimagined AI Program by The
 | [GradCAM](https://github.com/bala1802/GradCAM/blob/main/Experiment-2/README.md) | A technique used in deep learning and computer vision to visualize the regions of an input image that 
 contribute the most to the predictions made by a neural network model  . |
 | [PyTorch Lightning Module](https://github.com/bala1802/lightning_module) | A lightning module to handle the PyTorch Lightning libraries  . |
+| [Application deployment in HuggingFace Spaces](https://github.com/bala1802/ERA-Session-12) | A step-by-step process to deploy the Neural Network - PyTorch based application in the HuggingFace Spaces  . |
+| [Application deployment in HuggingFace Spaces](https://github.com/bala1802/ERA-Session-12) | A step-by-step process to deploy the Neural Network - PyTorch based application in the HuggingFace Spaces  . |
