@@ -21,3 +21,5 @@ Repository of case studies from the Extensive &amp; Reimagined AI Program by The
 | [UNET Architecture Part-2](https://github.com/bala1802/UNET_OxfordPetData) | Trained a UNET model on the Oxford Pet Dataset (`torchvision.datasets.OxfordIIITPet`) |
 | [OpenAI CLIP](https://github.com/bala1802/OpenAI_CLIP/tree/main) | Implemented Open AI's CLIP Paper: Learning Transferable Visual Models From Natural Language Supervision from scratch using PyTorch   |
 | [Fine-tuning Microsoft Phi-2 Small Language Model](https://github.com/bala1802/Phi2) | Fine-tuning of a Microsoft's Phi-2 small language model, aiming to enhance its capabilities and adapt it to specific tasks or domains.   |
+| [Low Rank Adaptation (LoRA)](https://github.com/bala1802/LoRA) | PyTorch implementation demonstrating Low Rank Adaption (LoRA) in Neural Networks, for efficient model compression and fine-tuning on domain specific tasks   |
+| [Low Rank Adaptation (LoRA)](https://github.com/bala1802/LoRA) | PyTorch implementation demonstrating Low Rank Adaption (LoRA) in Neural Networks, for efficient model compression and fine-tuning on domain specific tasks   |
