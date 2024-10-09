@@ -26,3 +26,8 @@ Repository of case studies from the Extensive &amp; Reimagined AI Program by The
 | [Fine-tuning Microsoft Phi-2 Small Language Model](https://github.com/bala1802/Phi2) | Fine-tuning of a Microsoft's Phi-2 small language model, aiming to enhance its capabilities and adapt it to specific tasks or domains.   |
 | [Low Rank Adaptation (LoRA)](https://github.com/bala1802/LoRA) | PyTorch implementation demonstrating Low Rank Adaption (LoRA) in Neural Networks, for efficient model compression and fine-tuning on domain specific tasks   |
 | [Rotary Positional Embeddings (RoPE)](https://github.com/bala1802/RoPE) | Exploring the concept of Rotary Positional Embeddings, and how they integrate the strengths of both Absolute Positional Embeddings and Relative Positional Embeddings.   |
+
+#### Certificate:
+
+<img width="1149" alt="image" src="https://github.com/user-attachments/assets/20707e40-66bf-4ba8-b6a7-ea8596a44cb8">
+
