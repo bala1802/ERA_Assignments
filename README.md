@@ -10,4 +10,6 @@ Repository of case studies from the Extensive &amp; Reimagined AI Program by The
 | [Multiclass Classification - 03](https://github.com/bala1802/ERA/tree/main/Session-7) | To achieve 99.4% validation accuracy on the MNIST Dataset with a Neural Network containing less than 8K parameters . |
 | [Multiclass Classification - 04](https://github.com/bala1802/ERA/tree/main/Session-8) | To achieve 70% Test accuracy for the CIFAR-10 dataset  . |
 | [Multiclass Classification - 05](https://github.com/bala1802/ERA/tree/main/Session-9) | The Neural Network architecture with multiple blocks and each block containing 3 Convolutional Layers, and multiple other constaints  . |
-| [GradCAM](https://github.com/bala1802/GradCAM/blob/main/Experiment-2/README.md) | A technique used in deep learning and computer vision to visualize the regions of an input image that contribute the most to the predictions made by a neural network model  . |
+| [GradCAM](https://github.com/bala1802/GradCAM/blob/main/Experiment-2/README.md) | A technique used in deep learning and computer vision to visualize the regions of an input image that 
+contribute the most to the predictions made by a neural network model  . |
+| [PyTorch Lightning Module](https://github.com/bala1802/lightning_module) | A lightning module to handle the PyTorch Lightning libraries  . |
