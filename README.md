@@ -13,3 +13,4 @@ Repository of case studies from the Extensive &amp; Reimagined AI Program by The
 | [PyTorch Lightning Module](https://github.com/bala1802/lightning_module) | A lightning module to handle the PyTorch Lightning libraries  . |
 | [Application deployment in HuggingFace Spaces](https://github.com/bala1802/ERA-Session-12) | A step-by-step process to deploy the Neural Network - PyTorch based application in the HuggingFace Spaces  . |
 | [Variational Auto Encoder](https://github.com/bala1802/Variational_Auto_Encoder) | Implemented the Auto-Encoding Variational Bayes by Diederik P. Kingma and Max Welling paper from the scratch using PyTorch to get a good understanding on the concepts used in Variational Auto Encoder  . |
+| [Transformers Architecture](https://github.com/bala1802/ERA-Session-15) | Implemented English to Italian translator using the Transformers Architecture  . |
